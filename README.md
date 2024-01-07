@@ -28,6 +28,4 @@ Visit [this link](https://taipei.diplo.de/tw-zh-tw/service/visa-einreise/-/24533
 
 ## Additional Tips
 
-- The ZAB degree conversion is required for degrees from any non-German institution. Early application is recommended.
-
-Feel free to adapt this readme template as needed for your convenience.
+- The [ZAB](https://github.com/chongruei/eu-blue-card-germany-guide/blob/main/ZAB.md) degree conversion is required for degrees from any non-German institution. Early application is recommended.
