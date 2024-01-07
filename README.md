@@ -19,7 +19,7 @@ Visit [this link](https://taipei.diplo.de/tw-zh-tw/service/visa-einreise/-/24533
    - Minimum annual income of €56,400 (for business-related positions) or €43,992 (for technical positions).
    - Important note: The job must be related to your academic qualifications.
 
-7. "Declaration of Employment Relationship" filled out by the German employer ([Erklärung zum Beschäftigungsverhältnis](https://github.com/chongruei/eu-blue-card-germany-guide/Erklärung_zum_Beschäftigungsverhältnis.pdf)).
+7. "Declaration of Employment Relationship" filled out by the German employer ([Erklärung zum Beschäftigungsverhältnis](https://github.com/chongruei/eu-blue-card-germany-guide/blob/main/Erkl%C3%A4rung_zum_Besch%C3%A4ftigungsverh%C3%A4ltnis.pdf)).
 8. Educational proof:
    - Original and copy of qualifications from a German university or an equivalent foreign degree recognized in Germany.
    - If the degree is from a non-German institution, provide:
